@@ -1,5 +1,5 @@
-👋 talk to me about data science, and deep learning.
-✨ talk to me about theatre, coffee, and keyboards
+👋 talk to me about data science, and deep learning. <br>
+✨ talk to me about theatre, coffee, and keyboards.
 
 <!---
 cheeweisoh/cheeweisoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
