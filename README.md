@@ -1,4 +1,3 @@
-👋 talk to me about data science, and deep learning. <br>
 ✨ talk to me about theatre, baseball, coffee, and keyboards.
 
 <!---
